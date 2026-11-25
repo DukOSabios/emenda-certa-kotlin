@@ -56,11 +56,7 @@ Kotlin, Jetpack Compose, ViewModel + StateFlow, Coroutines, `HttpURLConnection` 
 1. Abra o **Android Studio** (Ladybug ou mais novo, de preferência) e escolha **Open**.
 2. Selecione a pasta deste projeto (a que contém `settings.gradle.kts`).
 3. Espere o **Gradle Sync** terminar (precisa de internet na primeira vez).
-4. Em `Telas.kt`, troque `AUTOR` pelo seu nome.
 5. Escolha um emulador ou um celular com depuração USB e clique em **Run**.
-
-Não precisa criar projeto, copiar arquivos nem mexer no manifest: já está tudo configurado
-(package `com.emendacerta`, Minimum SDK 26, permissão de internet, dependências do Compose).
 
 ## Estrutura
 
@@ -76,4 +72,4 @@ app/src/main/res/font/   Alfa Slab One e Work Sans
 fonts-licenses/          licenças das fontes (SIL Open Font License)
 ```
 
-Feito por Seu Nome.
+Feito por Grupo 6.
